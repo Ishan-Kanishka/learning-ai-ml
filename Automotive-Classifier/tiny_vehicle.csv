@@ -1,0 +1,11 @@
+engine_cc,weight_kg,label
+150,180,motorcycle
+200,220,motorcycle
+250,210,motorcycle
+400,250,motorcycle
+180,160,motorcycle
+1300,1200,car
+1600,1300,car
+2000,1500,car
+2500,1700,car
+1800,1400,car
