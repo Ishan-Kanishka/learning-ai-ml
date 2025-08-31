@@ -7,4 +7,7 @@
 3.Visualized dataset with matplotlib scatter plot.
 
 4.Observed clear separation between motorcycles and cars.
+
+
+
 ![Uploading image.png…]()
